@@ -8,7 +8,9 @@ documentation with examples.
 
 ## Team
 
-- *(fill in your team members here — 1 to 3 people)*
+- UMRA IRFAN -R25EJ170
+- SAKSHAM SRIVASTAVA - R25EJ131
+- RISHIT YADAV - R25EJ121
 
 ## Features implemented
 
